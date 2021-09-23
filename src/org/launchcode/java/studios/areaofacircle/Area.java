@@ -2,7 +2,7 @@ package org.launchcode.java.studios.areaofacircle;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import java.lang.Math;
+
 public class Area {
     public static void main(String[] args) {
         Scanner scanny = new Scanner(System.in);
